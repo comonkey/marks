@@ -10,3 +10,6 @@ describe the state of a process:
 + W Paging (not valid since the 2.6.xx kernel)
 + X Dead (should never be seen)
 + Z Defunct ("zombie") process, terminated but not reaped by its parent.
+
+详细的请见
+[htop explained](https://peteris.rocks/blog/htop/#t-stopped-by-job-control-signal)
